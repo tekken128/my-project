@@ -1,5 +1,11 @@
 # my-project
 
+
+## Overview
+
+A 2-dimensional game
+
+
 ## What is created
 
 The game is developed using the Gamefroot platform. The way it works it as a user you have to pass the obstacles in order to proceed to another level.
